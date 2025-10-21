@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.exe
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.deps.json
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.pdb
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\refint\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.pdb
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\Calculadora en consola\obj\Debug\net8.0\ref\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.exe
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.deps.json
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\bin\Debug\net8.0\Calculadora en consola.pdb
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\refint\Calculadora en consola.dll
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.pdb
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\Calculadora en consola.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\Proyectos C#\Calculadora en consola\obj\Debug\net8.0\ref\Calculadora en consola.dll
